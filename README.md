@@ -15,8 +15,8 @@ The goal is to evaluate how different regression models perform and to understan
 - Random Forest
 
 ## Key Steps
-- Conducted exploratory data analysis (EDA) to understand data distributions and relationships
-- Performed data cleaning and preprocessing, including handling missing values and encoding categorical variables
-- Applied feature engineering to improve model performance
-- Used feature seletion techniques to reduce noise and improve interpretability
-- Trained and evaluated regression models
+- Conducted **exploratory data analysis (EDA)** to understand data distributions and relationships
+- Performed data cleaning and **preprocessing**, including handling missing values and encoding categorical variables
+- Applied **feature engineering** to improve model performance
+- Used **feature seletion** techniques to reduce noise and improve interpretability
+- Trained and evaluated **regression models**
