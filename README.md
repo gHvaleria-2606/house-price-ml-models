@@ -9,7 +9,7 @@ This project builds and compares multiple machine learning models to predict hou
 The goal is to evaluate how different regression models perform and to understand how feature engineering and data preprocessing impact model accuracy.
 
 ## Models Implemented
-- **Linear regression**
+- **Linear Regression**
 - **K-Nearest Neighbors (KNN)**
 - **Decision Tree**
 - **Random Forest**
