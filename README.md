@@ -9,10 +9,10 @@ This project builds and compares multiple machine learning models to predict hou
 The goal is to evaluate how different regression models perform and to understand how feature engineering and data preprocessing impact model accuracy.
 
 ## Models Implemented
-- Linear regression
-- K-Nearest Neighbors (KNN)
-- Decision Tree
-- Random Forest
+- **Linear regression**
+- **K-Nearest Neighbors (KNN)**
+- **Decision Tree**
+- **Random Forest**
 
 ## Key Steps
 - Conducted **exploratory data analysis (EDA)** to understand data distributions and relationships
