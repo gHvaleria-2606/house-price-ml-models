@@ -11,7 +11,6 @@ The goal is to evaluate how different regression models perform and to understan
 ## Models Implemented
 - **Linear Regression**
 - **K-Nearest Neighbors (KNN)**
-- **Decision Tree**
 - **Random Forest**
 
 ## Key Steps
